@@ -1,8 +1,8 @@
 {
-    "C_Cpp.errorSquiggles": "Disabled",
-    "files.associations": {
-        "PPM.C": "cpp",
-        "queues.C": "cpp"
-    },
-    "git.decorations.enabled": true
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "PPM.C": "cpp",
+    "queues.C": "cpp"
+  },
+  "git.decorations.enabled": true
 }
